@@ -7,7 +7,12 @@ function centuryFromYear(num) {
 }
 
 /*
-Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc.
+hint : Math.floor()
+소수점 아래 값을 버린 정수 값을 반환.
+
+Given a year, return the century it is in.
+The first century spans from the year 1 up to and including the year 100,
+the second - from the year 101 up to and including the year 200, etc.
 */
 describe('centuryFromYear()', () => {
     it('returns current century', () => {
