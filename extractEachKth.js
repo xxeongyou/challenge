@@ -4,7 +4,6 @@ function extractEachKth(nums, index) {
 }
 
 
-
 /*
 Given array of integers, remove each kth element from it.
 Hint : filter()
