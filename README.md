@@ -7,3 +7,6 @@ https://scrimba.com 의 javascript 크리스마스 챌린지<br>
 ## javascript challenge
   + split()
   + join()
+  + pop()
+  + push()
+  + slice()
