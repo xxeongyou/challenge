@@ -10,3 +10,5 @@ https://scrimba.com 의 javascript 크리스마스 챌린지<br>
   + pop()
   + push()
   + slice()
+  + charCodeAt()
+  + unshift()
